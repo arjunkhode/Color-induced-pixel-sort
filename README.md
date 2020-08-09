@@ -1,8 +1,6 @@
 # Color-induced-pixel-sort
 Processing program with color induction for pixel sort
 
-Files must be placed in a folder with the same name as that of the pde file
-
 /*
 
  Color induced Pixel Sort by AKTracer ver 1.0, 9 Aug 2020
@@ -47,3 +45,8 @@ Files must be placed in a folder with the same name as that of the pde file
 arjunkhode [at] gmail
  
  */
+
+## Installation
+
+Files must be placed in a folder with the same name as that of the pde file
+
