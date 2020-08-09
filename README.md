@@ -1,5 +1,5 @@
 # Color-induced-pixel-sort
-Processing program with color boosting for pixel sort
+Processing program with color induction for pixel sort
 
 Files must be placed in a folder with the same name as that of the pde file
 
