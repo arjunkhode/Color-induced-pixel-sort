@@ -11,7 +11,7 @@ Processing program with color induction for pixel sort
  https://instagram.com/aktracer
  
   Instructions:
-* Put file name and file extension
+* Put file name and file extension respectively inside the pde code
 * Set direction to horizontal or vertical
 * Set mode of sorting, black, brightness or white
 
